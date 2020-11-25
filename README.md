@@ -1,1 +1,1 @@
-# PYtest: simple function for screen printing of text in color with font formatting
+# PYutils: simple function for screen printing of text in color with font formatting
